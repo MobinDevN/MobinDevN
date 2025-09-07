@@ -1,4 +1,4 @@
-![logo](cover.png)
+![logo](cover_g.png)
 
 <h1 align="center">Hi 👋, I'm Mobin</h1>
 <h3 align="center">Full-stack developer | Machine Learning enthusiast</h3>
